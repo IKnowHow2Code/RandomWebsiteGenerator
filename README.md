@@ -17,7 +17,7 @@ This Python project generates random websites and checks if they are reachable a
   - `tkinter`: For creating the graphical user interface.
     
 ## License
-do whatever you want with this, sell it for money I dont care.
+Do whatever you want with this, I do not care.
 
 To install the required libraries, run:
 ```bash
