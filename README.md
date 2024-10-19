@@ -18,7 +18,7 @@ This Python project generates random websites and checks if they are reachable a
     
 ## License
 Do whatever you want with this, I do not care.
-
+## Pips
 To install the required libraries, run:
 ```bash
 pip install aiohttp beautifulsoup4
